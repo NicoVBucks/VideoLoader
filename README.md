@@ -27,7 +27,7 @@ Pas besoin de Git. Telecharge directement le zip :
 
 **[Telecharger VideoLoader (ZIP)](https://github.com/NicoVBucks/videoloader/archive/refs/heads/main.zip)**
 
-Dezippe, suis le guide d'installation ci-dessous, c'est pret.
+Dezippe, suis le guide d'installation ci-dessous ou Word "Guide d'installation" plus haut.
 
 ---
 
@@ -88,7 +88,7 @@ python -m uvicorn server:app --reload --port 8000
 
 Pour lancer VideoLoader comme un vrai logiciel (sans fenetre de terminal) :
 
-Exectuer le fichier creer_raccourci.ps1 puis valider la commande avec O.
+Exectuer le fichier creer_raccourci.ps1 (clic droit > Executer avec PowerShell) puis valider la commande avec O.
 
 OU
 
