@@ -19,7 +19,7 @@ Supporte YouTube, Instagram, TikTok, X/Twitter et plus de 1000 sites grace a [yt
 
 Pas besoin de Git. Telecharge directement le zip :
 
-**[Telecharger VideoLoader (ZIP)](https://github.com/[NicoVBucks]/videoloader/archive/refs/heads/main.zip)**
+**[Telecharger VideoLoader (ZIP)](https://github.com/NicoVBucks/videoloader/archive/refs/heads/main.zip)**
 
 Dezippe, suis le guide d'installation ci-dessous, c'est pret.
 
