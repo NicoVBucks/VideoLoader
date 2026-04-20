@@ -15,7 +15,7 @@ Supporte YouTube, Instagram, TikTok, X/Twitter et plus de 1000 sites grace a [yt
 
 ---
 
-## Guide d'utilisation
+## Guide d'installation
 
 https://github.com/user-attachments/files/26905498/VideoLoader_Guide.docx
 
